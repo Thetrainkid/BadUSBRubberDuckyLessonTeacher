@@ -1,0 +1,26 @@
+DELAY 1000
+GUI r
+DELAY 200
+STRING Notepad
+ENTER
+DELAY 200
+STRING Don't forget to lock yout computer. :)
+ENTER
+DELAY 200
+STRING This was written by a bad USB that could have hacked your computer!!!
+ENTER
+DELAY 200
+STRING For more information visit: https://www.youtube.com/watch?v=e_f9p-_JWZw
+ENTER
+ENTER 
+STRING Have a nice day
+DELAY 200
+CTRL S
+DELAY 500
+STRING IMPORTANT.txt
+DELAY 200
+ENTER
+DELAY 200
+GUI l
+
+
